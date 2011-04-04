@@ -1,0 +1,39 @@
+== FUEL CMS Modules Pack ==
+This repository contains extra modules not included in the base 
+installation of FUEL CMS.
+
+== INSTALLATION ==
+Move all the downloaded modules folders into your FUEL CMS's fuel/modules 
+folder. To enable the modules, you must add them to the "modules_allowed" 
+configuration parameter found in fuel/application/config/MY_fuel.php. Each 
+module has additional configuration parameters you will need to set in it's 
+corresponding configuration files.
+
+== FUEL CMS ==
+FUEL CMS is a CodeIgniter based Content Management System. To learn more about
+it's features visit:
+http://www.getfuelcms.com
+
+FUEL CMS can be downloaded here:
+https://github.com/daylightstudio/FUEL-CMS
+
+
+== DOCUMENTATION ==
+To access the documentation, you can visit:
+http://www.getfuelcms.com/user_guide/general/localization/
+
+
+== TEAM ==
+* David McReynolds, Daylight Studio, main developer
+
+
+== BUGS ==
+To file a bug report, go to:
+http://github.com/daylightstudio/FUEL-CMS-Modules-Pack/issues
+
+
+== LICENSE ==
+FUEL CMS and the FUEL CMS Modules Pack is licensed under APACHE 2. 
+The full text of the license can be found in the 
+fuel/licenses/fuel_license.txt file.
+
