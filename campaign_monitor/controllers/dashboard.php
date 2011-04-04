@@ -16,7 +16,7 @@ class Dashboard extends Fuel_base_controller {
 		$this->_config = $this->config->item('campaign_monitor');
 
 		$this->load->library('cache');
-		$this->load->language('campaign_monitor');
+		$this->load->module_language(CAMPAIGN_MONITOR_FOLDER, 'campaign_monitor');
 	}
 	
 	function index()
