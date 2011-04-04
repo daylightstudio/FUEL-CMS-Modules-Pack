@@ -1,0 +1,4 @@
+<?php 
+define('WORDPRESS_VERSION', '0.1');
+define('WORDPRESS_FOLDER', 'wordpress');
+define('WORDPRESS_PATH', APPPATH.MODULES_FOLDER.'/'.WORDPRESS_FOLDER.'/');

@@ -1,0 +1,5 @@
+div#dashboard_clicky h3 { background: #f6f6f6 url(../images/xtra_clicky.png) no-repeat 5px center; padding-left: 70px; margin: 0;}
+div#dashboard_clicky a { display: block; float: right; text-align: right;  padding: 5px; }
+div.clicky_stats table { width: 95%; margin: 5px auto 6px auto; }
+div.clicky_stats th { text-align: left; }
+div.clicky_stats span.date_range { font-style: italic; font-size: 11px; font-weight: normal;}
